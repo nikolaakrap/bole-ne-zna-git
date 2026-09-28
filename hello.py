@@ -1,1 +1,1 @@
-print("Ja sam Nikola Akrap i volim deu")
+print("Ja sam Bole i volim jorgovan")
