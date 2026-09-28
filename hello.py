@@ -1,1 +1,1 @@
-print("amigo klaun")
+print("lapajne pao ek")
