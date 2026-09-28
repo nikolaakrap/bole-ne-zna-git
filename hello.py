@@ -1,1 +1,1 @@
-print("gugo tovar")
+print("amigo klaun")
