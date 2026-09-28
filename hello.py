@@ -1,0 +1,1 @@
+print("Ja sam Nikola Akrap i volim jorgovan")
